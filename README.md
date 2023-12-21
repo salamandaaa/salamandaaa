@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a developer, interested in Web3, Metaverse and so on.
+
 <!--
 **salamandaaa/salamandaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
